@@ -1,0 +1,154 @@
+
+
+body {
+	background: #cbd3cb;
+}
+
+
+.wrapper {
+	min-width: 650px;
+	width: 80%;
+	margin: auto;
+	background: #FFF;
+}
+
+header { 
+  width:100%;
+  padding-top:50px;
+}
+#logo{
+	margin:auto;
+	text-align:center;
+	}
+
+/* LEFT OFF AFTER MOVING IMG FROM header to header a */
+
+header a { 
+	background: white;
+	color: #49471c;
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+	font-family: Helvetica, "helvetica neue", Arial, sans-serif;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+
+#logo {
+  margin:0 80px;
+  display:inline;
+  font-size: 1.4em;
+  padding-bottom: 3px;
+  border-bottom: 2px solid #49471c;
+  font-weight:800;
+}
+
+nav{ 
+	display: inline-block;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+.navbar { 
+	display: inline-block; 
+	width: 100%;
+}
+ nav ul {
+	list-style-type:none;
+	margin: 0;
+	}
+nav ul li{
+	display: inline;
+	}
+li a {
+	text-decoration: none;
+	margin-right: 10px;
+	display: inline;
+	}
+.feedback {
+	display:inline-block;
+	width:30%;
+	background:limegreen;
+	float:right;
+	height: 90%;
+	padding:10px;
+	margin:40px 20px 0;
+}
+.container {
+	background: white;
+	height: 720px;
+}
+.maincontent {
+	width: 700px;
+	height: 70%;
+	display:inline-block;
+	margin:40px 0 40px 20px;
+	}
+	
+.smallblocks {
+	display: block;
+	width:700px;
+	height:30%;
+}
+
+.blocks { 
+	display:inline;
+	width:305px;
+	background:red;
+	margin-bottom:10%;
+	padding:10px;
+}
+#leftblock {
+	float:left;
+	}
+#rightblock {
+	float:right;
+	}
+	.blocks h3 {
+		display: inline;
+	}
+	
+	.blocks p {
+		display: inline;
+	}
+.routines {
+	display:block;
+	width:680px;
+	background:red;
+	clear:both;
+	overflow:hidden;
+	padding:10px;
+	height:90%;
+}
+
+	.routines h3 {
+		margin: 0;
+	}
+	.routines p {
+		margin: 0;
+	}
+	
+footer{
+	clear:both;
+	height:10%;
+	background:#000;
+	color:#fff;
+	padding:10px 0;
+	vertical-align:baseline;
+	text-align:left;
+	font-size:10px;
+}
+.headcontainer {
+	width:100%;
+	background:#666;
+	margin-top:25px;
+	display:block;
+	clear:both;
+	}
+div img {
+	margin:auto;
+	display:block;
+	}
+	

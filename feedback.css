@@ -1,0 +1,8 @@
+.feedback ul {
+ font-size:14px;
+ color:#fff;
+ margin-top:5px;
+ }
+.feedback ul li {
+ list-style-type:none;
+ }

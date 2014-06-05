@@ -1,0 +1,21 @@
+.headcontainer{
+height:450px;
+line-height:130%;
+text-align:center;
+}
+.headcontainer h1{
+color:#fff;
+font-size:50px;
+
+text-align:center;
+padding:50px 0;
+}
+.headcontainer p{
+padding-top:10px;
+width:450px;
+margin:0 auto;
+color:#fff;
+font-size:1.3em;
+ }
+ 
+ 
